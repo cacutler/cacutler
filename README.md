@@ -1,5 +1,9 @@
 # Hi there, I'm Alex
 
+I am a software engineering student at Utah Tech University.  I enjoy programming, learning about technology, and gaming.
+
+## Top Languages and Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacutler&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacutler&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
