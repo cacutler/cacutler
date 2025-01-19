@@ -8,6 +8,33 @@ I am a software engineering student at Utah Tech University.  I enjoy programmin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacutler&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Languages and Frameworks
+
+**Languages**
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- C
+- C++
+- C#
+- RISC-V Assembly
+- Swift
+- Kotlin
+- SQL
+- PHP
+
+**Frameworks**
+
+- Python Flask
+- Vue.js
+- Express.js
+- Node.js
+- Laravel
+- Tailwind CSS
+- Angular.js (currently learning)
+
 <!--
 **cacutler/cacutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
