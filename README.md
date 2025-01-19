@@ -8,32 +8,13 @@ I am a software engineering student at Utah Tech University.  I enjoy programmin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacutler&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages and Frameworks
+## Skills
 
-**Languages**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,aws,c,cs,cpp,figma,firebase,flask,git,github,gitlab,gradle,kotlin,laravel,latex,linux,mongodb,mysql,nodejs,npm,php,phpstorm,postman,py,react,sqlite,swift,taliwind,ts,unity,vue,ubuntu,vim,vscode,vuetify,windows,yarn,wordpress,visualstudio,neovim,md,linkedin,githubactions,gherkin,gmail,express,docker,discord,bash,apple)](https://skillicons.dev)
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- C
-- C++
-- C#
-- RISC-V Assembly
-- Swift
-- Kotlin
-- SQL
-- PHP
+## Current Projects
 
-**Frameworks**
-
-- Python Flask
-- Vue.js
-- Express.js
-- Node.js
-- Laravel
-- Tailwind CSS
-- Angular.js (currently learning)
+I am currently working on my senior project using Angular and Firebase.  My senior project is a streamlined course tracker for college students.  I am also working on a credit/debit card clearinghouse project written in Python for my software practices course.  
 
 <!--
 **cacutler/cacutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
