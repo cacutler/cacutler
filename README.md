@@ -16,6 +16,14 @@ I am a software engineering student at Utah Tech University.  I enjoy programmin
 
 I am currently working on my senior project using Angular and Firebase.  My senior project is a streamlined course tracker for college students.  I am also working on a credit/debit card clearinghouse project written in Python for my software practices course.  
 
+## Current Learning
+
+I am learning Angular, Firebase, and Wordpress along with some software practices and UX design principles.  
+
+## How to reach me
+
+You can contact me using my socials listed on the left.  
+
 <!--
 **cacutler/cacutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
