@@ -10,7 +10,7 @@ I am a software engineering student at Utah Tech University.  I enjoy programmin
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,aws,c,cs,cpp,figma,firebase,flask,git,github,gitlab,gradle,kotlin,laravel,latex,linux,mongodb,mysql,nodejs,npm,php,phpstorm,postman,py,react,sqlite,swift,tailwind,ts,unity,vue,ubuntu,vim,vscode,vuetify,windows,yarn,wordpress,visualstudio,neovim,md,linkedin,githubactions,gherkin,gmail,express,docker,discord,bash,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,aws,c,cs,cpp,figma,firebase,flask,git,github,gitlab,gradle,kotlin,laravel,latex,linux,mongodb,mysql,nodejs,npm,php,phpstorm,postman,py,react,sqlite,swift,tailwind,ts,unity,vue,ubuntu,vim,vscode,vuetify,windows,yarn,wordpress,visualstudio,neovim,md,linkedin,githubactions,gherkin,gmail,express,docker,discord,bash,apple,androidstudio,instagram,powershell,replit,stackoverflow)](https://skillicons.dev)
 
 ## Current Projects
 
