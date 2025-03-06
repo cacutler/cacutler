@@ -10,23 +10,23 @@ I am a software engineering student at Utah Tech University.  I enjoy programmin
 
 ## Skills
 
-**Languages**
+### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,gradle,kotlin,latex,php,py,swift,ts,md,gherkin,bash)](https://skillicons.dev)
 
-**Frameworks/Libraries**
+### Frameworks/Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=angular,flask,laravel,nodejs,react,tailwind,unity,vue,vuetify,express,selenium)](https://skillicons.dev)
 
-**Databases**
+### Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb,firebase)](https://skillicons.dev)
 
-**DevOps**
+### DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker)](https://skillicons.dev)
 
-**Other**
+### Other
 
 [![My Skills](https://skillicons.dev/icons?i=linux,npm,phpstorm,postman,ubuntu,vim,vscode,windows,yarn,wordpress,visualstudio,neovim,linkedin,gmail,discord,apple,androidstudio,instagram,powershell,replit,stackoverflow)](https://skillicons.dev)
 
