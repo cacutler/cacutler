@@ -10,7 +10,7 @@ I am a software engineering student at Utah Tech University.  I enjoy programmin
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,aws,c,cs,cpp,figma,firebase,flask,git,github,gitlab,gradle,kotlin,laravel,latex,linux,mongodb,mysql,nodejs,npm,php,phpstorm,postman,py,react,sqlite,swift,tailwind,ts,unity,vue,ubuntu,vim,vscode,vuetify,windows,yarn,wordpress,visualstudio,neovim,md,linkedin,githubactions,gherkin,gmail,express,docker,discord,bash,apple,androidstudio,instagram,powershell,replit,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,aws,c,cs,cpp,figma,firebase,flask,git,github,gitlab,gradle,kotlin,laravel,latex,linux,mongodb,mysql,nodejs,npm,php,phpstorm,postman,py,react,sqlite,swift,tailwind,ts,unity,vue,ubuntu,vim,vscode,vuetify,windows,yarn,wordpress,visualstudio,neovim,md,linkedin,githubactions,gherkin,gmail,express,docker,discord,bash,apple,androidstudio,instagram,powershell,replit,stackoverflow,dynamodb,firebase,selenium)](https://skillicons.dev)
 
 ## Current Projects
 
@@ -22,4 +22,10 @@ I am learning Angular, Firebase, and Wordpress along with some software practice
 
 ## How to reach me
 
-You can contact me using my socials listed on the left.  
+<p align="center">
+    <a href="https://x.com/cacutler1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cacutler1" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/cameron-cutler-b299602a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cameron-cutler-b299602a9" height="30" width="30" /></a>
+    <a href="https://stackoverflow.com/users/26648996/alex-cutler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="26648996 alex-cutler" height="30" width="30" /></a>
+    <a href="https://www.facebook.com/alex.cutler.10236" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alex.cutler.10236" height="30" width="30" /></a>
+    <a href="https://www.instagram.com/cacutler1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cacutler1" height="30" width="30" /></a>
+</p>
