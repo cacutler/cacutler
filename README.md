@@ -10,7 +10,25 @@ I am a software engineering student at Utah Tech University.  I enjoy programmin
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,aws,c,cs,cpp,figma,firebase,flask,git,github,gitlab,gradle,kotlin,laravel,latex,linux,mongodb,mysql,nodejs,npm,php,phpstorm,postman,py,react,sqlite,swift,tailwind,ts,unity,vue,ubuntu,vim,vscode,vuetify,windows,yarn,wordpress,visualstudio,neovim,md,linkedin,githubactions,gherkin,gmail,express,docker,discord,bash,apple,androidstudio,instagram,powershell,replit,stackoverflow,dynamodb,firebase,selenium)](https://skillicons.dev)
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,gradle,kotlin,latex,php,py,swift,ts,vuify,md,gherkin,bash)](https://skillicons.dev)
+
+**Frameworks/Libraries**
+
+[![My Skills](https://skillicons.dev/icons?i=angular,flask,laravel,nodejs,react,tailwind,unity,vue,vuetify,express,selenium)](https://skillicons.dev)
+
+**Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb,firebase)](https://skillicons.dev)
+
+**DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker)](https://skillicons.dev)
+
+**Other**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,npm,phpstorm,postman,ubuntu,vim,vscode,windows,yarn,wordpress,visualstudio,neovim,linkedin,gmail,discord,apple,androidstudio,instagram,powershell,replit,stackoverflow)](https://skillicons.dev)
 
 ## Current Projects
 
