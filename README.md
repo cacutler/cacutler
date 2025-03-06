@@ -12,7 +12,7 @@ I am a software engineering student at Utah Tech University.  I enjoy programmin
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,gradle,kotlin,latex,php,py,swift,ts,vuify,md,gherkin,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,gradle,kotlin,latex,php,py,swift,ts,md,gherkin,bash)](https://skillicons.dev)
 
 **Frameworks/Libraries**
 
