@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate software engineering student from St. George, Utah</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cacutler&label=Profile%20views&color=0e75b6&style=flat" alt="cacutler" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profile%20views&color=0e75b6&style=flat" alt="cacutler" /></p>
 
 <p align="left"> <a href="https://twitter.com/cacutler1" target="blank"><img src="https://img.shields.io/twitter/follow/cacutler1?logo=twitter&style=for-the-badge" alt="cacutler1" /></a> </p>
 
-- 🔭 I’m currently working on [my Course Tracker senior project](https://github.com/cacutler/course-tracker)
+- 🔭 I’m currently working on [my Course Tracker senior project](https://github.com/cacutler/course-tracker).
 
-- 🌱 I’m currently learning **Angular, Firebase, AWS, and Wordpress**
+- 🌱 I’m currently learning **Angular, Firebase, AWS, and Wordpress**.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cameron-cutler-b299602a9/](https://www.linkedin.com/in/cameron-cutler-b299602a9/)
+- 👨‍💻 All of my projects are available on [my LinkedIn profile](https://www.linkedin.com/in/cameron-cutler-b299602a9/).
 
-- 📫 How to reach me **calexcutler@gmail.com**
+- 📫 How to reach me: **calexcutler@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
