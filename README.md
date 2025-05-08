@@ -37,6 +37,6 @@
 <a target="_blank" href="https://www.facebook.com/alex.cutler.10236" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook"></a>
 <a target="_blank" href="https://www.instagram.com/cacutler1" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"></a>
 <a target="_blank" href="https://stackoverflow.com/users/26648996" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow"></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=cacutler&show_icons=true&locale=en" alt="cacutler"></p>
-<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cacutler&langs_count=20" alt="cacutler"></p>
+<p><img src="https://https://github-readme-stats-alex-cutlers-projects.vercel.app/api?username=cacutler&show_icons=true&locale=en" alt="cacutler"></p>
+<p><img src="https://https://github-readme-stats-alex-cutlers-projects.vercel.app/api/top-langs/?username=cacutler&langs_count=20" alt="cacutler"></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cacutler" alt="cacutler"></a></p>
