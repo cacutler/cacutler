@@ -39,4 +39,5 @@
 <a target="_blank" href="https://stackoverflow.com/users/26648996" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow"></a></p>
 <p><img src="https://github-readme-stats-alex-cutlers-projects.vercel.app/api?username=cacutler&show_icons=true&locale=en" alt="cacutler"></p>
 <p><img src="https://github-readme-stats-alex-cutlers-projects.vercel.app/api/top-langs/?username=cacutler&langs_count=20" alt="cacutler"></p>
+<p><img src="https://github-readme-stats-alex-cutlers-projects.vercel.app/api/wakatime?username=cacutler" alt="cacutler"></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cacutler" alt="cacutler"></a></p>
