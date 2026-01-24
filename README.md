@@ -41,4 +41,3 @@
 <h2>My GitHub Stats</h2>
 <p><img src="https://github-readme-stats-git-master-alex-cutlers-projects.vercel.app/api?username=cacutler&show_icons=true&locale=en" alt="cacutler"></p>
 <p><img src="https://github-readme-stats-git-master-alex-cutlers-projects.vercel.app/api/top-langs/?username=cacutler&langs_count=20&layout=pie" alt="cacutler"></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cacutler" alt="cacutler"></a></p>
