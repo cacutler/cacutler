@@ -11,7 +11,7 @@ I am available for part time freelance software development work.  Feel free to 
 - 👨‍💻 All of my projects are available at my **[GitHub Profile](https://github.com/cacutler)**.
 - 📄 Know about my experiences on my **[resume](https://drive.google.com/file/d/18a-ig5-SYhSh4E9Z4K_2VpRcbv2kTaJ6/view?usp=sharing)**.
 
-**Profile Views**: <p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
+**Profile Views** <p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
 
 ## Languages and Tools
 
