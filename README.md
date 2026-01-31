@@ -4,8 +4,6 @@ A passionate software engineer from Saint George, Utah.
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
-
 - 🔭 I'm currently working on **a recipe archive backend project built with Spring Boot and Java**.
 - 🌱 I'm currently learning **Spring Boot and Java**.
 - 💬 Ask me about **web (backend and frontend) and mobile development**.
@@ -13,7 +11,10 @@ I am available for part time freelance software development work.  Feel free to 
 - 👨‍💻 All of my projects are available at my **[GitHub Profile](https://github.com/cacutler)**.
 - 📄 Know about my experiences on my **[resume](https://drive.google.com/file/d/18a-ig5-SYhSh4E9Z4K_2VpRcbv2kTaJ6/view?usp=sharing)**.
 
-## Languages and Tools:
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
+
+## Languages and Tools
+
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/></a>
@@ -60,7 +61,7 @@ I am available for part time freelance software development work.  Feel free to 
     <a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/></a>
 </p>
 
-## Connect with me:
+## Connect with me
 
 <p align="center">
     <a href="https://github.com/cacutler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cacutler" height="30" width="40"/></a>
