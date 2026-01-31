@@ -1,21 +1,19 @@
-<h1>Hi 👋, I'm Alex Cutler</h1>
-<p>A passionate software engineer from Saint George, Utah</p>
-<p>I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler" /> </p>
+# Hi 👋, I'm Alex Cutler
 
-- 🔭 I'm currently working on **a recipe archive project built with Spring Boot and Java**
+A passionate software engineer from Saint George, Utah.
 
-- 🌱 I'm currently learning **Spring Boot and Java**
+I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
-- 💬 Ask me about **Backend, frontend, and mobile development**
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler" /></p>
 
-- 📫 How to reach me **calexcutler@gmail.com**
+- 🔭 I'm currently working on **a recipe archive backend project built with Spring Boot and Java**.
+- 🌱 I'm currently learning **Spring Boot and Java**.
+- 💬 Ask me about **web (backend and frontend) and mobile development**.
+- 📫 How to reach me **calexcutler@gmail.com**.
+- 👨‍💻 All of my projects are available at my **[GitHub Profile](https://github.com/cacutler)**.
+- 📄 Know about my experiences on my **[resume](https://drive.google.com/file/d/18a-ig5-SYhSh4E9Z4K_2VpRcbv2kTaJ6/view?usp=sharing)**.
 
-- 👨‍💻 All of my projects are available at **[https://github.com/cacutler](https://github.com/cacutler)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/18a-ig5-SYhSh4E9Z4K_2VpRcbv2kTaJ6/view?usp=sharing](https://drive.google.com/file/d/18a-ig5-SYhSh4E9Z4K_2VpRcbv2kTaJ6/view?usp=sharing)**
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> 
@@ -61,8 +59,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/> </a>
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+## Connect with me:
+
+<p align="center">
 <a href="https://github.com/cacutler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cacutler" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cameron-cutler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron-cutler" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26648996/alex-cutler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26648996/alex-cutler" height="30" width="40" /></a>
@@ -72,6 +72,8 @@
 <a href="https://youtube.com/@alexsoftwarecorner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alexsoftwarecorner" height="30" width="40" /></a>
 <a href="https://leetcode.com/agentalex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agentalex" height="30" width="40" /></a>
 </p>
-<h2>My GitHub Stats</h2>
+
+## My GitHub Stats
+
 <p><img src="https://github-readme-stats-git-master-alex-cutlers-projects.vercel.app/api?username=cacutler&show_icons=true&locale=en" alt="cacutler"></p>
 <p><img src="https://github-readme-stats-git-master-alex-cutlers-projects.vercel.app/api/top-langs/?username=cacutler&langs_count=20&layout=pie" alt="cacutler"></p>
