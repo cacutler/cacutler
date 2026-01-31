@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Alex Cutler</h1>
 <p>A passionate software engineer from Saint George, Utah</p>
 <p>I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cacutler&label=Profile views&color=0e75b6&style=flat" alt="cacutler" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler" /> </p>
 
 - 🔭 I'm currently working on **a recipe archive project built with Spring Boot and Java**
 
