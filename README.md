@@ -18,7 +18,6 @@ I am available for part time freelance software development work.  Feel free to 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
