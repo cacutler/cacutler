@@ -4,8 +4,8 @@ A passionate software engineer from Saint George, Utah.
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
-- 🔭 I'm currently working on **a recipe archive backend project built with Spring Boot and Java**.
-- 🌱 I'm currently learning **Spring Boot and Java**.
+- 🔭 I'm currently working on **a WAV File processor**.
+- 🌱 I'm currently learning **C++**.
 - 💬 Ask me about **web (backend and frontend) and mobile development**.
 - 📫 How to reach me **calexcutler@gmail.com**.
 - 👨‍💻 All of my projects are available at my **[GitHub Profile](https://github.com/cacutler)**.
