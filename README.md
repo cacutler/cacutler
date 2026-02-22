@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alex Cutler
 
-A passionate software engineer from Saint George, Utah.
+I'm a passionate software engineer from Saint George, Utah.
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
