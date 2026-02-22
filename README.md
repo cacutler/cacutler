@@ -13,6 +13,16 @@ I am available for part time freelance software development work.  Feel free to 
 
 **Profile Views** <p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
 
+## Recent Projects
+
+- The Recipe Archive (FastAPI/Python, PostgreSQL, and Flutter/Dart)
+- WAV File Processor (C++)
+- Card Game Point Tracker (SwiftUI for iOS and Jetpack Compose Android)
+- Personal Blog (Ruby on Rails, PostgreSQL, and Tailwind CSS)
+- Expense Tracker (Nest, Next/React, Prisma, and PostgreSQL)
+- ToDos (Nest, Nuxt/Vue, Prisma, and MySQL)
+- Cutler Code Business Website (Laravel/PHP and MySQL)
+
 ## Languages and Tools
 
 <p align="left">
