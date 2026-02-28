@@ -23,6 +23,43 @@ I am available for part time freelance software development work.  Feel free to 
 - ToDos (Nest, Nuxt/Vue, Prisma, and MySQL)
 - Cutler Code Business Website (Laravel/PHP and MySQL)
 
+## Featured AWS Project: Serverless Payment Clearinghouse
+
+**Python | AWS Lambda | DynamoDB | Distributed Systems**
+
+Designed and implemented a scalable serverless API that abstracts payment processing between merchants and multiple financial institutions.  The system simulates hight-volume transaction flow while enforcing strict SLA and security constraints.
+
+<details>
+<summary>Click to expand details</summary>
+
+**🏗️ Architecture**
+
+- **Amazon Web Services Lambda** for stateless transaction processing
+- **Amazon Web Services DynamoDB** for merchant authentication and transaction logging
+- REST-based integration with heterogeneous downstream banking APIs
+- Token-based merchant authentication model
+
+**⚙️ Engineering Highlights**
+
+- Routed transaction across 5 vendor-specific banking APIs with differing schemas
+- Normalized inconsistent downstream responses into a unified status model
+- Enforced <3 second SLA with timeout handling and graceful degradation
+- Simulated 100+ concurrent merchants to evaluate scalability and resilience
+- Processed 700+ transactions under load conditions
+- Designed with PCI-aware constraints (no sensitive card data persisted)
+- Identified and resolved JSON schema validation issue discovered during production-style testing
+
+**📈 Production Considerations**
+
+- Designed for horizontal scalability using serverless architecture
+- Implemented defensive JSON parsing and error handling
+- Evaluated cost vs availability tradeoffs in free-tier cloud environment
+- Future enhancements: IAM role-based auth, structured logging, rate limiting, circuit breaker pattern
+
+Source code remains private due to academic requirements. Architecture and design details are shared for portfolio purposes.
+
+</details>
+
 ## Languages and Tools
 
 <p align="left">
