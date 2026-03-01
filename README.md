@@ -1,6 +1,10 @@
 # Hi 👋, I'm Alex Cutler
 
-I'm a passionate software engineer from Saint George, Utah.
+**Full-Stack & Mobile Developer | Cloud, APIs, and Web/Mobile Applications**
+
+## About Me
+
+Recent Software Engineering graduate building production-ready applications with modern full-stack technologies.  Interested in cloud systems, distributed systems, and full-stack and mobile development.
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
@@ -13,37 +17,39 @@ I am available for part time freelance software development work.  Feel free to 
 
 **Profile Views** <p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
 
-## My Tech Stack
+## My Core Tech Stack
 
 **Languages**
 
-- Python
-- TypeScript/JavaScript
-- PHP
-- HTML/CSS
-- SwiftUI/Swift
-- Kotlin/Jetpack Compose
-- C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Frameworks**
 
-- Vue
-- Angular
-- Flask
-- Laravel
-- Express
-- Node
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Databases**
 
-- MongoDB
-- MySQL
-- SQLite
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Cloud Platforms**
 
-- AWS
-- Google Firebase
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## Hire Me For:
 
@@ -105,7 +111,7 @@ Source code remains private due to academic requirements. Architecture and desig
 
 </details>
 
-## Languages and Tools
+## Additional Languages and Tools I Used
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/></a>
@@ -152,7 +158,7 @@ Source code remains private due to academic requirements. Architecture and desig
     <a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/></a>
 </p>
 
-## Connect with me
+## How to Connect with Me
 
 <p align="center">
     <a href="https://github.com/cacutler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cacutler" height="30" width="40"/></a>
