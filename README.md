@@ -23,6 +23,7 @@ I am available for part time freelance software development work.  Feel free to 
 - HTML/CSS
 - SwiftUI/Swift
 - Kotlin/Jetpack Compose
+- C++
 
 **Frameworks**
 
