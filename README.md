@@ -56,12 +56,16 @@ I am available for part time freelance software development work.  Feel free to 
 - The Recipe Archive
     - This project aims to "digitize" family recipes by allowing users to add in and search through recipes.
     - It uses Java and Spring Boot for the backend, PostgreSQL for the database, and Svelte and SvelteKit for the frontend.
+    - The frontend uses REST APIs to connect to the backend and JWTs for user authentication.
 - Card Game Point Tracker
     - This is a point tracking app used to help keep track of points during card games (think games like Wackee Six, Cover Your Assets, Skull King, etc.)
     - The iOS app is built with SwiftUI and the Android app is built with Kotlin and Jetpack Compose.
+    - I wrote several unit and instrumented tests for both apps.
 - Cutler Code Business Website
     - This is a website for a personal business idea I have in mind for creating custom software for clients who wish to work with me.
     - It uses MySQL for the database and the Laravel PHP framework for both the frontend and backend.
+    - The frontend uses dozens of REST APIs to communicate with the backend.
+    - I wrote several unit and feature tests to test the website and added a small CI/CD pipeline with GitHub Actions to automate the test runner when I push code to the repository.
 
 ## Featured AWS Project: Serverless Payment Clearinghouse
 
