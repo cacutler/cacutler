@@ -13,15 +13,58 @@ I am available for part time freelance software development work.  Feel free to 
 
 **Profile Views** <p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
 
+## My Tech Stack
+
+**Languages**
+
+- Python
+- TypeScript/JavaScript
+- PHP
+- HTML/CSS
+- SwiftUI/Swift
+- Kotlin/Jetpack Compose
+
+**Frameworks**
+
+- Vue
+- Angular
+- Flask
+- Laravel
+- Express
+- Node
+
+**Databases**
+
+- MongoDB
+- MySQL
+- SQLite
+
+**Cloud Platforms**
+
+- AWS
+- Google Firebase
+
+## Hire Me For:
+
+- Backend Development
+- Frontend Development
+- Fullstack Development
+- Mobile Development
+
 ## Recent Projects
 
-- The Recipe Archive (Java/Spring Boot, PostgreSQL, and Svelte/SvelteKit)
-- WAV File Processor (C++)
-- Card Game Point Tracker (SwiftUI for iOS and Jetpack Compose Android)
-- Personal Blog (Ruby on Rails, PostgreSQL, and Tailwind CSS)
-- Expense Tracker (Nest, Next/React, Prisma, and PostgreSQL)
-- ToDos (Nest, Nuxt/Vue, Prisma, and MySQL)
-- Cutler Code Business Website (Laravel/PHP and MySQL)
+- The Recipe Archive
+    - This project aims to "digitize" family recipes by allowing users to add in and search through recipes.
+    - It uses Java and Spring Boot for the backend, PostgreSQL for the database, and Svelte and SvelteKit for the frontend.
+- WAV File Processor
+    - This is a text based command line tool used to create "musical scores" and render wav audio files based on those musical scores.
+    - It uses C++ version 14.
+- Card Game Point Tracker
+    - This is a point tracking app used to help keep track of points during card games (think games like Wackee Six, Cover Your Assets, Skull King, etc.)
+    - The iOS app is built with SwiftUI and the Android app is built with Kotlin and Jetpack Compose.
+- Cutler Code Business Website
+    - This is a website for a personal business idea I have in mind for creating custom software for clients who wish to work with me.
+    - It uses MySQL for the database and the Laravel PHP framework for both the frontend and backend.
 
 ## Featured AWS Project: Serverless Payment Clearinghouse
 
