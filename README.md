@@ -69,7 +69,7 @@ I am available for part time freelance software development work.  Feel free to 
     - This is a point tracking app used to help keep track of points during card games (think games like Wackee Six, Cover Your Assets, Skull King, etc.)
     - The iOS app is built with SwiftUI and the Android app is built with Kotlin and Jetpack Compose.
     - I wrote several unit and instrumented tests for both apps.
-    <div style="display: flex; gap: 3rem;">
+    <div style="display: flex;">
         <img src="Android-Home-Screen.png" alt="Android Point Tracker App" style="width: 25%; height: auto;">
         <img src="iOS-Home-Screen.png" alt="iOS Point Tracker App" style="width: 25%; height: auto;">
     </div>
