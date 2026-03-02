@@ -73,6 +73,7 @@ I am available for part time freelance software development work.  Feel free to 
     - It uses MySQL for the database and the Laravel PHP framework for both the frontend and backend.
     - The frontend uses dozens of REST APIs to communicate with the backend.
     - I wrote several unit and feature tests to test the website and added a small CI/CD pipeline with GitHub Actions to automate the test runner when I push code to the repository.
+    ![Cutler Code Homepage](Cutler-Code-Homepage.png)
 
 ## Featured AWS Project: Serverless Payment Clearinghouse
 
