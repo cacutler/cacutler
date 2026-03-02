@@ -64,6 +64,7 @@ I am available for part time freelance software development work.  Feel free to 
     - This project aims to "digitize" family recipes by allowing users to add in and search through recipes.
     - It uses Java and Spring Boot for the backend, PostgreSQL for the database, and Svelte and SvelteKit for the frontend.
     - The frontend uses REST APIs to connect to the backend and JWTs for user authentication.
+    ![Recipe Archive Homepage](Recipe-Archive-Homepage.png)
 - Card Game Point Tracker
     - This is a point tracking app used to help keep track of points during card games (think games like Wackee Six, Cover Your Assets, Skull King, etc.)
     - The iOS app is built with SwiftUI and the Android app is built with Kotlin and Jetpack Compose.
