@@ -8,8 +8,8 @@ Recent Software Engineering graduate building production-ready applications with
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
-- 🔭 I'm currently working on a **fitness and calorie tracker and workout planner**.
-- 🌱 I'm currently learning **Flutter/Dart, FastAPI/Python, and PostgreSQL**.
+- 🔭 I'm currently working on a **a city park reservation tool and a fitness and calorie tracker and workout planner**.
+- 🌱 I'm currently learning **C#/ASP.Net, Flutter/Dart, FastAPI/Python, and PostgreSQL**.
 - 💬 Ask me about **web (backend and frontend) and mobile development**.
 - 📫 How to reach me **calexcutler@gmail.com**.
 - 👨‍💻 All of my projects are available at my **[GitHub Profile](https://github.com/cacutler)**.
