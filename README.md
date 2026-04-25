@@ -8,7 +8,7 @@ Recent Software Engineering graduate building production-ready applications with
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
-- 🔭 I'm currently working on **shfit scheduler tool along with a family dashboard web app**.
+- 🔭 I'm currently working on **a shfit scheduler tool along with a family dashboard web app**.
 - 🌱 I'm currently learning **Laravel, Vue, and React**.
 - 💬 Ask me about **web (backend and frontend) and mobile development**.
 - 📫 How to reach me **calexcutler@gmail.com**.
