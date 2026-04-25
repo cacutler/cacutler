@@ -4,7 +4,7 @@
 
 ## About Me
 
-Recent Software Engineering graduate building production-ready applications with modern full-stack technologies.  Interested in cloud systems, distributed systems, and full-stack and mobile development.
+Recent Software Engineering graduate building production-ready applications with modern full-stack technologies.  Interested in cloud systems and full-stack and mobile development.
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
