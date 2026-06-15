@@ -8,14 +8,15 @@ Recent Software Engineering graduate building production-ready applications with
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
-- 🔭 I'm currently working on **a shfit scheduler tool, a job application tracker dashboard, and a family dashboard web app**.
-- 🌱 I'm currently learning **Laravel, Vue, React, Angular, and Nest**.
+- 🔭 I'm currently working on **a shfit scheduler tool and a card game point tracking Android app**.
+- 🌱 I'm currently learning **Laravel, Vue, Kotlin, and Jetpack Compose**.
 - 💬 Ask me about **web (backend and frontend) and mobile development**.
 - 📫 How to reach me **calexcutler@gmail.com**.
 - 👨‍💻 All of my projects are available at my **[GitHub Profile](https://github.com/cacutler)**.
 - 📄 Know about my experiences on my **[resume](https://drive.google.com/file/d/18a-ig5-SYhSh4E9Z4K_2VpRcbv2kTaJ6/view?usp=sharing)**.
 
-**Profile Views** <p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
+**Profile Views**
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
 
 ## My Core Tech Stack
 
