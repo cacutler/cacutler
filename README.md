@@ -8,8 +8,8 @@ Recent Software Engineering graduate building production-ready applications with
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
-- 🔭 I'm currently working on **a subdivision plan review tool that incorporates AI and a teaching/tutoring dashboard**.
-- 🌱 I'm currently learning **Django, FastAPI, ReactJS, and Tailwind**.
+- 🔭 I'm currently working on **a language learning dojo platform**.
+- 🌱 I'm currently learning **PHP and Laravel**.
 - 💬 Ask me about **web (backend and frontend) and mobile development**.
 - 📫 How to reach me **calexcutler@gmail.com**.
 - 👨‍💻 All of my projects are available at my **[GitHub Profile](https://github.com/cacutler)**.
