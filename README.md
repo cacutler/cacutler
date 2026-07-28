@@ -13,7 +13,7 @@ I am available for part time freelance software development work.  Feel free to 
 - 💬 Ask me about **web (backend and frontend) and mobile development**.
 - 📫 How to reach me **calexcutler@gmail.com**.
 - 👨‍💻 All of my projects are available at my **[GitHub Profile](https://github.com/cacutler)**.
-- 📄 Know about my experiences on my **[resume](https://drive.google.com/file/d/1-KLEG-jThZeZyjO_nhTlKH-n2BF79H1_/view?usp=sharing)**.
+- 📄 Know about my experiences on my **[resume](https://drive.google.com/file/d/1Hld425_c4xYlWqjXPb-YT7hT655EJ7lA/view?usp=sharing)**.
 
 **Profile Views**
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cacutler&label=Profileviews&color=0e75b6&style=flat" alt="cacutler"/></p>
