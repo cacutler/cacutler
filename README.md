@@ -8,8 +8,8 @@ Recent Software Engineering graduate building production-ready applications with
 
 I am available for part time freelance software development work.  Feel free to look through my <a href="https://cacutler.github.io/">GitHub Page</a> for further details.
 
-- 🔭 I'm currently working on **N/A**.
-- 🌱 I'm currently learning **N/A**.
+- 🔭 I'm currently working on **a Master of Computer Science program**.
+- 🌱 I'm currently learning **advanced algorithms, software engineering leadership, and machine learning**.
 - 💬 Ask me about **web (backend and frontend) and mobile development**.
 - 📫 How to reach me **calexcutler@gmail.com**.
 - 👨‍💻 All of my projects are available at my **[GitHub Profile](https://github.com/cacutler)**.
